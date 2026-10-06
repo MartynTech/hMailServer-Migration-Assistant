@@ -1,0 +1,35 @@
+END USER LICENCE AGREEMENT
+
+This End User Licence Agreement ("Agreement") governs use of hMailServer Migration Assistant ("Software"). By using the Software, you agree to the terms below.
+
+1. LICENCE
+You are granted a non-exclusive, non-transferable licence to use the Software for lawful hMailServer migration, verification, backup and related administrative purposes.
+
+2. AUTHORISED USE
+You may use the Software only on systems, accounts and data that you own or are authorised to administer. You are responsible for obtaining any permissions required to access source and destination hosts, mail data, credentials, certificates and network resources.
+
+3. BACKUPS AND MIGRATION RESPONSIBILITY
+Mail-system migration can result in interruption, configuration changes or data loss if performed incorrectly. You are responsible for maintaining verified backups of the source environment and for validating the destination before decommissioning the source. The Software includes safeguards and rollback features, but these do not replace an independent backup.
+
+4. THIRD-PARTY SOFTWARE
+The Software may call or interoperate with Microsoft Windows components, hMailServer, Robocopy, PowerShell, 7-Zip, Tailscale or other third-party products. Those products remain subject to their own licences and terms. No third-party component is licensed to you under this Agreement.
+
+5. SECURITY AND CREDENTIALS
+You are responsible for protecting administrative credentials, backup files, mail data, private keys and migration reports. Credentials entered into the Software should be used only on trusted administrative systems.
+
+6. DATA PROTECTION
+You are responsible for complying with applicable privacy, data-protection, retention, employment and communications laws when transferring or processing email data.
+
+7. NO WARRANTY
+The Software is provided "as is" without warranties of any kind, to the maximum extent permitted by applicable law.
+
+8. LIMITATION OF LIABILITY
+To the maximum extent permitted by applicable law, the author is not liable for indirect, incidental, special or consequential loss arising from use of the Software, including loss of data, mail service or business interruption.
+
+9. TERMINATION
+This licence terminates automatically if you materially breach these terms. On termination, you must stop using copies distributed under this Agreement where required by applicable law.
+
+10. GENERAL
+If any provision is found unenforceable, the remaining provisions continue in effect. This is a generic software licence supplied for the Software and is not legal advice.
+
+Copyright © 2026 Martyn Beech. All rights reserved.
